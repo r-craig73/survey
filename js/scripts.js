@@ -1,0 +1,1 @@
+var beverage = $("#food").val();
